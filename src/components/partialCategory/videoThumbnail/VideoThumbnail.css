@@ -1,0 +1,17 @@
+.vid-thumbnail-container {
+  position: relative;
+  height: 140px;
+  display: inline-block;
+}
+.vid-thumbnail {
+  display: inline-block;
+  height: 118px;
+  width: 210px;
+  border: 1px solid black;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.vid-title {
+  position: absolute;
+  bottom: 0;
+}
